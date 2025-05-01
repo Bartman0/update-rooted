@@ -35,3 +35,7 @@ Users reported a few issue's while running the update. Which include:
 - Failed update due to previous failed manual updates. If previous manual updates (without the script) failed to update the Toon, this script will probably also fail.
 - Problems with connecting to the VPN. Some users have problems with their VPN keys and therefor can not update using the Quby/Eneco sources anymore.
 
+## root password
+
+This is 'toon'
+
